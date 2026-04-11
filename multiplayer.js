@@ -10,7 +10,7 @@
  * 3. Change SERVER_URL below to your server address.
  */
 
-const SERVER_URL = 'https://TU-NOMBRE.onrender.com'; // ← cambia esto por tu URL de Render
+const SERVER_URL = 'https://void-frontier-by-daniel.onrender.com'; // ← cambia esto por tu URL de Render
 
 // ── State ────────────────────────────────────────────────────────
 const mp = {
